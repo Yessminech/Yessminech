@@ -18,3 +18,9 @@ Fraunhofer IPK and Sensirion Connected Solutions.
 [LinkedIn](https://www.linkedin.com/in/yessmine-chabchoub) · chabchoub.yessmine@gmail.com
 
 🇩🇪 German (C1) · 🇬🇧 English · 🇫🇷 French · 🇹🇳 Arabic
+
+## 🟡 Browse my repos as a maze
+
+[![repo-muncher](docs/repo-muncher.gif)](https://yessminech.github.io/repo-muncher/)
+
+Each dot is one of my repositories — eat it to see what it is. [Play it →](https://yessminech.github.io/repo-muncher/)
