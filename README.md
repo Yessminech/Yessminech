@@ -7,9 +7,9 @@ around it. Currently a working student in product management at Legalhero, previ
 Fraunhofer IPK and Sensirion Connected Solutions.
 
 **What I'm working on**
-- High-performance simulation — parallelising numerical solvers in C with OpenMP and MPI
-- Embedded software on ESP32 and NVIDIA Jetson
-- Edge AI and low-power systems (seminar papers on compute-in-memory and wearable power)
+- A smart ring for health monitoring — sensors, low power, and everything I keep reading about wearables
+- A plant monitoring sensor, because apparently every CS student builds one eventually
+- A chore organiser
 
 **Tools I reach for**
 `C` `C++` `Python` `MATLAB / Simulink` `ESP-IDF` `FreeRTOS` `CMake` `GitLab CI` `Linux` `LTspice` `KiCad`
