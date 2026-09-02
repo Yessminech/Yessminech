@@ -12,14 +12,14 @@ Fraunhofer IPK and Sensirion Connected Solutions.
 - A chore organiser
 
 **Tools I reach for**
-`C` `C++` `Python` `MATLAB / Simulink` `ESP-IDF` `FreeRTOS` `CMake` `GitLab CI` `Linux` `LTspice` `KiCad`
+`C` `C++` `Python` `MATLAB / Simulink` `ESP-IDF` `FreeRTOS` `CMake` `GitLab CI` `Linux` `LTspice` `Altium365`
 
 **Elsewhere**
 [LinkedIn](https://www.linkedin.com/in/yessmine-chabchoub) · chabchoub.yessmine@gmail.com
 
 🇩🇪 German (C1) · 🇬🇧 English · 🇫🇷 French · 🇹🇳 Arabic
 
-## 🟡 Browse my repos as a maze
+## Browse my repos as a maze
 
 [![repo-muncher](docs/repo-muncher.gif)](https://yessminech.github.io/repo-muncher/)
 
