@@ -24,3 +24,4 @@ Fraunhofer IPK and Sensirion Connected Solutions.
 [![repo-muncher](docs/repo-muncher.gif)](https://yessminech.github.io/repo-muncher/)
 
 Each dot is one of my repositories — eat it to see what it is. [Play it →](https://yessminech.github.io/repo-muncher/)
+
